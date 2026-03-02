@@ -25,8 +25,17 @@ src/
   App.jsx
   main.jsx
   styles/global.css
+  components/ui/
+    Button.jsx
+    Input.jsx
+    Field.jsx
   features/office-butler/
     OfficeButlerApp.jsx
+    components/
+      OfferForm.jsx
+      OfferPreview.jsx
+      TaskList.jsx
+      AISuggestionBox.jsx
     officeButler.css
     data.js
 ```
